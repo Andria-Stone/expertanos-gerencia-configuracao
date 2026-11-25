@@ -57,7 +57,7 @@ Observações:
  
 O frontend atual implementa, de forma local: Pomodoro com pausa automática ao sair da aba, tarefas, flashcards, XP e níveis, sequência de dias (streak), meta diária fixa e resumo semanal. O ranking usa usuários simulados.
  
-Cadastro, login, banco de dados, edição de tarefas e flashcards, gerenciamento de metas e histórico detalhado estão previstos nos requisitos e ainda não foram implementados. O detalhamento por requisito está em [`docs/Analise_de_Aderencia_e_Divergencias.md`](docs/Analise_de_Aderencia_e_Divergencias.md).
+Cadastro, login, banco de dados, edição de tarefas e flashcards, gerenciamento de metas e histórico detalhado estão previstos nos requisitos e ainda não foram implementados.
  
 ## ⚙️ Gerência de Configuração
  
