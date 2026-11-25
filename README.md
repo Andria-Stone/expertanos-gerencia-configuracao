@@ -33,7 +33,6 @@ Durante o desenvolvimento, são aplicadas práticas de controle e acompanhamento
 - Registro de Status Accounting;
 - Gerenciamento de solicitações de mudança (RFC);
 - Estabelecimento e controle de baselines;
-- Auditorias de Configuração Funcional (FCA) e Física (PCA).
 
 ## 📁 Organização do repositório
 
@@ -46,16 +45,6 @@ Durante o desenvolvimento, são aplicadas práticas de controle e acompanhamento
 | `tests/` | Testes do sistema |
 
 * A estrutura será atualizada conforme a organização e evolução do repositório.
-
-## 🛠️ Tecnologias e ferramentas
-
-- **Python:** desenvolvimento do backend.
-- **Git e GitHub:** versionamento e controle de configuração.
-- **Jira e Confluence:** acompanhamento e documentação.
-- **Postman:** documentação e validação de APIs.
-- **Google Docs:** elaboração colaborativa dos documentos.
-
-*As demais tecnologias serão especificadas conforme as decisões de implementação.*
 
 ## 🎓 Contexto acadêmico
 
