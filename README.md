@@ -16,7 +16,7 @@ O projeto parte de uma aplicação existente (protótipo web) e a adapta conform
  
 | Componente | Situação | Local |
 |---|---|---|
-| Documentação de GCS (Plano, ERS, Inventário de ICs, Matrizes de Rastreabilidade, Status Accounting) | Documentos presentes; versões e status em revisão (ver [divergências](docs/Analise_de_Aderencia_e_Divergencias.md)) | `docs/` |
+| Documentação de GCS (Plano, ERS, Inventário de ICs, Matrizes de Rastreabilidade, Status Accounting) | Documentos presentes; versões e status em revisão | `docs/` |
 | Frontend (protótipo em HTML/CSS/JS, dados no `localStorage` do navegador) | Código importado do repositório de origem; funciona como MVP local, sem contas de usuário | `frontend/` |
 | Backend, banco de dados, migrações, contrato de API, testes automatizados, CI | Previstos no Plano de Projeto; **ainda não presentes neste repositório** | — |
 | Baselines, PCM, auditorias FCA/PCA, relatório final | Previstos no Plano de Projeto; sem evidências no repositório até esta data | — |
