@@ -51,7 +51,7 @@ Pastas como `backend/`, `db/` e `tests/` serão criadas quando houver conteúdo 
 2. Com a extensão **Live Server**, inicie o servidor (a porta configurada em `.vscode/settings.json` é a 5501), ou abra o `index.html` diretamente no navegador.
 Observações:
  
-- Os arquivos de áudio do player (`1.mp3`, `2.mp3`, `3.mp3`) **não foram incluídos** no repositório (origem e licença a confirmar). Sem eles, o player de estudo não reproduz som; as demais funções não são afetadas.
+- Os arquivos de áudio do player (`1.mp3`, `2.mp3`, `3.mp3` - origem e licença a confirmar. 
 - As fontes (Google Fonts) são carregadas da internet.
 ## ✨ Funcionalidades
  
